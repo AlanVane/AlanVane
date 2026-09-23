@@ -140,15 +140,10 @@ Hello, I'm **<font color="#03A9F4">{Alan Vane}</font>**, a **<font color="#F3119
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/docs/README_zh-CN.md -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanVane&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanVane&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanVane&theme=algolia&exclude=html,lua,shell)
-
-<!--
-[![AlanVane's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanVane&bg_color=040109&color=3b9767&line=4c9e86&point=57d016&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-<!--
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LouisLiu00&theme=merko&custom_title=Louis%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/LouisLiu00)
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanVane&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanVane&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanVane&theme=algolia&utcOffset=8)
 
 <!--
 <h3>💰 Donations</h3>
