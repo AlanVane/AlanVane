@@ -20,6 +20,11 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
 
 - 🔭 &nbsp; Learning about monitoring and observability.
 
+- 🚀 &nbsp; Fun fact:
+  - Slow long-distance running.
+  - PC gamer.
+  - Vibe Coding...
+
 <h3>🛠 Tech Stack & Tool Chains</h3>
 
 <hr/>
