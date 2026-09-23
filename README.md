@@ -140,8 +140,8 @@ Hello, I'm **<font color="#03A9F4">{Alan Vane}</font>**, a **<font color="#F3119
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/docs/README_zh-CN.md -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanVane&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanVane&theme=algolia&exclude=html,lua,shell)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanVane&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanVane&theme=algolia&exclude=html,common%20lisp,emacs%20lisp,lua,shell)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanVane&theme=algolia&exclude=html,common%20lisp,emacs%20lisp,lua,shell)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanVane&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanVane&theme=algolia&utcOffset=8)
 
