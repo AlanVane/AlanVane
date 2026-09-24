@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Node.js-393.svg?style=flat-square&logo=nodedotjs&logoColor=fff">
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/React.js-2A2B2D?style=flat-square&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=fff">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=fff">
   </td>
@@ -90,7 +90,7 @@
 <tr>
   <td>數據庫</td>
   <td>
-    <img src="https://img.shields.io/badge/Mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=fff">
+    <img src="https://img.shields.io/badge/MySQL-007096.svg?style=flat-square&logo=mysql&logoColor=fff">
     <img src="https://img.shields.io/badge/Postgres-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=fff">
