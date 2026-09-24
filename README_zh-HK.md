@@ -24,6 +24,7 @@
   - 慢速長跑。
   - 電腦遊戲玩家。
   - 氛圍編碼...
+- <a href="mailto:alan.vane@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alan.vane@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <h3>⚙️ 主要編碼技能 </h3>
 
