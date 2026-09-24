@@ -219,13 +219,13 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
 
 <p align="center">
   <!--<img width="120" src="https://images.alans.site/file/1790198616495_left.webp" />&emsp;-->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanVane&theme=algolia" style="width: 67.5%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanVane&theme=algolia" style="width: 81%" />
   <!--&emsp;<img width="120" src="https://images.alans.site/file/1790198646789_right.webp" />-->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanVane&theme=algolia&exclude=html,common%20lisp,emacs%20lisp,lua,shell" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanVane&theme=algolia&exclude=html,common%20lisp,emacs%20lisp,lua,shell" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanVane&theme=algolia" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanVane&theme=algolia&utcOffset=8" />
-  <img src="https://raw.githubusercontent.com/AlanVane/AlanVane/refs/heads/main/profile-3d-contrib/profile-night-green.svg" align="center" style="width: 67.5%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/AlanVane/AlanVane/refs/heads/main/profile-3d-contrib/profile-night-green.svg" align="center" style="width: 81%" alt="Activity Graph" />
 </p>
 
 <!--
