@@ -32,37 +32,30 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br>Java
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Java&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       <br>Go
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Go&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Python&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:JavaScript&style=flat-square&color=blue&label=time"/>
     </td>
      <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
       <br>Vue
-       <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Vue&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Docker" />
       <br>SQL
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:SQL&style=flat-square&color=blue&label=time"/>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width="48" height="48" alt="Docker" />
       <br>Bash
-      <img src="https://badges.fw-web.space/endpoint?url=https://wakapi.einverne.info/api/compat/shields/v1/wangchuanli/interval:any/language:Bash&style=flat-square&color=blue&label=time"/>
     </td>
     
   </tr>
