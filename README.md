@@ -208,16 +208,8 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
 
 <h3>🏆 GitHub Activity</h3>
 
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/docs/README_zh-CN.md -->
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanVane&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanVane&theme=algolia&exclude=html,common%20lisp,emacs%20lisp,lua,shell)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanVane&theme=algolia&exclude=html,common%20lisp,emacs%20lisp,lua,shell)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanVane&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanVane&theme=algolia&utcOffset=8)
--->
-
 <p align="center">
+  <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/docs/README_zh-CN.md -->
   <!--<img width="120" src="https://images.alans.site/file/1790198616495_left.webp" />&emsp;-->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanVane&theme=algolia" style="width: 81%" />
   <!--&emsp;<img width="120" src="https://images.alans.site/file/1790198646789_right.webp" />-->
@@ -225,6 +217,8 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanVane&theme=algolia&exclude=html,common%20lisp,emacs%20lisp,lua,shell" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanVane&theme=algolia" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanVane&theme=algolia&utcOffset=8" />
+
+  <!-- https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/README.zh-CN.md -->
   <img src="https://raw.githubusercontent.com/AlanVane/AlanVane/refs/heads/main/profile-3d-contrib/profile-night-green.svg" align="center" style="width: 81%" alt="Activity Graph" />
 </p>
 
