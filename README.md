@@ -24,6 +24,7 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
   - Slow long-distance running.
   - PC gamer.
   - Vibe Coding...
+- <a href="mailto:alan.vane@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alan.vane@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <h3>⚙️ Code Skills </h3>
 
