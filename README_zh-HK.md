@@ -151,6 +151,7 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=fff">
     <img src="https://img.shields.io/badge/Google_Chrome-4285F4.svg?style=flat-square&logo=Google-chrome&logoColor=fff">
     <img src="https://img.shields.io/badge/Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=fff">
+    <img src="https://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext">
   </td>
 </tr>
 <tr>
