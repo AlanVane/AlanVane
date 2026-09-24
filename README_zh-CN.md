@@ -145,6 +145,7 @@
 <tr>
   <td>工具链</td>
   <td>
+    <img src="https://img.shields.io/badge/Github-000.svg?style=flat-square&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=fff">
     <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-0078d7.svg?style=flat-square&logo=visualstudiocode&logoColor=white">
