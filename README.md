@@ -4,7 +4,7 @@
 
 ### Hey there, this is Alan Vane 👋
 
-<h3> 💻 About Me </h3>
+<h3>🧑🏻 About Me </h3>
 
 Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199">Senior Full-Stack Engineer</font>**,  from Guangzhou :panda_face: :cn:.
 
@@ -25,7 +25,7 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
   - PC gamer.
   - Vibe Coding...
 
-<h3> ⚙️ Code Skills </h3>
+<h3>⚙️ Code Skills </h3>
 
 <table>
   <tr>
@@ -68,7 +68,7 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
   </tr>
 </table>
 
-<h3>🛠 Tech Stack & Tool Chains</h3>
+<h3>💻 Tech Stack & Tool Chains</h3>
 
 <hr/>
 
