@@ -71,10 +71,10 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
 <tr>
   <td>AI Coding</td>
   <td>
-    <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white">
-    <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=fff">
+    <img src="https://img.shields.io/badge/Claude_Code-orange?style=flat-square&logo=claude&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenAI_Codex-blue?style=flat-square&logo=githubcopilot&logoColor=white">
+    <img src="https://img.shields.io/badge/Claude_Code_&_Codex-Plugins_&_Skills-orange?style=flat-square&logo=anthropic&logoColor=white">
     <img src="https://img.shields.io/badge/Deepseek-4D6BFF?style=flat-square&logo=deepseek&logoColor=fff">
-    <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=fff">
   </td>
 </tr>
 <tr>
@@ -102,12 +102,14 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
     <img src="https://img.shields.io/badge/Shell_Script-4EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=fff">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=fff">
     <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=flat-square&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white">
   </td>
 </tr>
 <tr>
   <td>Containerization</td>
   <td>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=fff">
+    <img src="https://img.shields.io/badge/Podman-CC342D?style=flat-square&logo=podman&logoColor=white">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat-square&logo=kubernetes&logoColor=fff">
   </td>
 </tr>
