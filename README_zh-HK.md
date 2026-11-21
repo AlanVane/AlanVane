@@ -26,6 +26,30 @@
   - 氛圍編碼...
 - <a href="mailto:alan.vane@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alan.vane@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
+---
+
+<h3>🖥️ 我的設備</h3>
+
+#### 💻 計算機
+
+| 部件 | 描述 |
+|------|------|
+| ![CPU](https://img.shields.io/badge/CPU-Intel_Core_i7_12th-0071C5.svg?style=flat-square&logo=intel) | 12th Gen Intel(R) Core(TM) i7-1260P |
+| ![GPU](https://img.shields.io/badge/GPU-Intel_Alderlake_(Gen12)-blue?style=flat-square&logo=intel) | 主顯卡，Intel Alderlake_p (Gen12) |
+| ![RAM](https://img.shields.io/badge/RAM-32GB_DDR4_3200MHz-yellow?style=flat-square&logo=ram) | 雙通道高（低）頻內存 |
+| ![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux) | 滾動更新，Arch Linux 不死！ |
+
+#### 📱 智能手機
+
+- ![Phone1](https://img.shields.io/badge/📱-Redmi_K80_Ultra-blue?style=flat-square&logo=xiaomi)
+- ![Phone2](https://img.shields.io/badge/📱-Honor_70-blue?style=flat-square&logo=honor)
+
+#### 📡 網絡設備
+
+- ![Router](https://img.shields.io/badge/Router-Huawei_AX3-blue?style=flat-square&logo=huawei)
+
+---
+
 <h3>⚙️ 主要編碼技能 </h3>
 
 <table>
@@ -62,9 +86,9 @@
   </tr>
 </table>
 
-<h3>💻 技術棧和工具鏈</h3>
-
 <hr/>
+
+<h3>💻 技術棧和工具鏈</h3>
 
 <table>
 <tr>
@@ -186,8 +210,6 @@
 </table>
 
 <h3>🛠 學習</h3>
-
-<hr/>
 
 <table>
 <tr>
