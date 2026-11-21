@@ -26,6 +26,30 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
   - Vibe Coding...
 - <a href="mailto:alan.vane@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alan.vane@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
+---
+
+<h3>🖥️ My Devices / 我的设备</h3>
+
+#### 💻 Desktop PC / 计算机
+
+| 部件 | 描述 |
+|------|------|
+| ![CPU](https://img.shields.io/badge/CPU-Intel_Core_i7_12th-0071C5.svg?style=flat-square&logo=intel) | 12th Gen Intel(R) Core(TM) i7-1260P |
+| ![GPU](https://img.shields.io/badge/GPU-Intel_Alderlake_(Gen12)-blue?style=flat-square&logo=intel) | 主显卡，Intel / Main GPU , Intel Alderlake_p (Gen12) |
+| ![RAM](https://img.shields.io/badge/RAM-32GB_DDR4_3200MHz-yellow?style=flat-square&logo=ram) | 双通道高（低）频内存 / Dual channel high (low) frequency memory |
+| ![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux) | 滚动更新，Arch Linux 不死！ / Roll upgrade, Arch Linux doesn't die! |
+
+#### 📱 Phones / 智能手机
+
+- ![Phone1](https://img.shields.io/badge/📱-Redmi_K80_Ultra-blue?style=flat-square&logo=xiaomi)
+- ![Phone2](https://img.shields.io/badge/📱-Honor_70-blue?style=flat-square&logo=honor)
+
+#### 📡 Network / 网络设备
+
+- ![Router](https://img.shields.io/badge/Router-Huawei_AX3-blue?style=flat-square&logo=huawei)
+
+---
+
 <h3>⚙️ Code Skills </h3>
 
 <table>
@@ -62,9 +86,9 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
   </tr>
 </table>
 
-<h3>💻 Tech Stack & Tool Chains</h3>
-
 <hr/>
+
+<h3>💻 Tech Stack & Tool Chains</h3>
 
 <!-- https://github.com/inttter/md-badges/blob/main/README.md -->
 <table>
@@ -187,8 +211,6 @@ Hello, I'm **<font color="#03A9F4">Alan Vane</font>**, a **<font color="#F31199"
 </table>
 
 <h3>🛠 To Learn</h3>
-
-<hr/>
 
 <table>
 <tr>
