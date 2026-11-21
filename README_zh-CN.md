@@ -28,9 +28,9 @@
 
 ---
 
-<h3>🖥️ My Devices / 我的设备</h3>
+<h3>🖥️ 我的设备</h3>
 
-#### 💻 Desktop PC / 计算机
+#### 💻 计算机
 
 | 部件 | 描述 |
 |------|------|
@@ -39,12 +39,12 @@
 | ![RAM](https://img.shields.io/badge/RAM-32GB_DDR4_3200MHz-yellow?style=flat-square&logo=ram) | 双通道高（低）频内存 |
 | ![OS](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux) | 滚动更新，Arch Linux 不死！ |
 
-#### 📱 Phones / 智能手机
+#### 📱 智能手机
 
 - ![Phone1](https://img.shields.io/badge/📱-Redmi_K80_Ultra-blue?style=flat-square&logo=xiaomi)
 - ![Phone2](https://img.shields.io/badge/📱-Honor_70-blue?style=flat-square&logo=honor)
 
-#### 📡 Network / 网络设备
+#### 📡 网络设备
 
 - ![Router](https://img.shields.io/badge/Router-Huawei_AX3-blue?style=flat-square&logo=huawei)
 
